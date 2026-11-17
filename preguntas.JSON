@@ -1,0 +1,37 @@
+[
+  {
+    "pregunta": "¿Cuáles de los siguientes orgánulos tienen membrana doble?",
+    "opciones": ["Mitocondria", "Cloroplasto", "Ribosoma", "Vacuola"],
+    "correctas": [0, 1]
+  },
+  {
+    "pregunta": "¿Cuáles son funciones del Aparato de Golgi?",
+    "opciones": ["Empaquetar proteínas", "Digestión celular", "Fotosíntesis", "Síntesis de lípidos"],
+    "correctas": [0, 3]
+  },
+  {
+    "pregunta": "¿Cuáles de los siguientes son tipos de células?",
+    "opciones": ["Procariota", "Eucariota", "Tejido", "Órgano"],
+    "correctas": [0, 1]
+  },
+  {
+    "pregunta": "¿Dónde se encuentra el ADN en la célula eucariota?",
+    "opciones": ["Núcleo", "Mitocondria", "Ribosoma", "Retículo endoplásmico"],
+    "correctas": [0, 1]
+  },
+  {
+    "pregunta": "¿Cuáles de los siguientes orgánulos participan en la síntesis de proteínas?",
+    "opciones": ["Ribosoma", "Retículo endoplásmico rugoso", "Lisosoma", "Cloroplasto"],
+    "correctas": [0, 1]
+  },
+  {
+    "pregunta": "¿Cuáles son funciones de la membrana plasmática?",
+    "opciones": ["Controlar el paso de sustancias", "Delimitar la célula", "Producir ATP", "Almacenar el ADN"],
+    "correctas": [0, 1]
+  },
+  {
+    "pregunta": "¿Cuáles son características de los lisosomas?",
+    "opciones": ["Contienen enzimas digestivas", "Descomponen sustancias", "Realizan fotosíntesis", "Producen ATP"],
+    "correctas": [0, 1]
+  }
+]
